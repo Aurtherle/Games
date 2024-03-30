@@ -1,0 +1,342 @@
+[
+  {
+      "question": "*『نويل』*",
+      "response": "ن و ي ل"
+  },
+  {
+      "question": "*『استا』*",
+      "response": "ا س ت ا"
+  },
+  {
+      "question": "*『ايرين』*",
+      "response": "ا ي ر ي ن"
+  },
+  {
+      "question": "*『لاو』*",
+      "response": " ل ا و"
+  },
+  {
+      "question": "*『ايس』*",
+      "response": "ا ي س"
+  },
+  {
+      "question": "*『نوبارا』*",
+      "response": "ن و ب ا ر ا"
+  },
+  {
+      "question": "*『』*",
+      "response": "استا"
+  },
+  {
+      "question": "*『ايتاشي』*",
+      "response": "ا ي ت ا ش ي"
+  },
+  {
+      "question": "*『لوفي』*",
+      "response": "ل و ف ي"
+  },
+  {
+      "question": "*『نامي』*",
+      "response": " ن ا م ي"
+  },
+  {
+      "question": "*『ويليام』*",
+      "response": "و ي ل ي ا م"
+  },
+  {
+      "question": "*『بوروتو』*",
+      "response": "ب و ر و ت و"
+  },
+  {
+      "question": "*『ساسكي』*",
+      "response": "س ا س ك ي"
+  },
+  {
+      "question": "*『مادارا』*",
+      "response": "م ا د ا ر ا"
+  },
+  {
+      "question": "*『توبي』*",
+      "response": "ت و ب ي"  
+  },
+  {
+      "question": "*『اوبيتو』*",
+      "response": "ا و ب ي ت و"
+  },
+  {
+      "question": "*『اسونا』*",
+      "response": " ا س و ن ا"
+  },
+  {
+      "question": "*『كاكاشي』*",
+      "response": "ك ا ك ا ش ي"
+  },
+  {
+      "question": "*『بولاف』*",
+      "response": "ب و ل ا ف"
+  },
+  {
+      "question": "*『كونوهامارو』*",
+      "response": "ك و ن و ه ا م ا ر و" 
+  },
+  {
+      "question": "*『كيريتو』*",
+      "response": "ك ي ر ي ت و"
+  },
+  {
+      "question": "*『كرولو』*",
+      "response": "ك ر و ل و"
+  },
+  {
+      "question": "*『فيتان』*",
+      "response": "ف ي ت ا ن"
+  },
+  {
+      "question": "*『كورو』*",
+      "response": "ك و ر و"
+  },
+  {
+      "question": "*『سيباستيان』*",
+      "response": " س ي ب ا س ت ي ا ن"
+  },
+  {
+      "question": "*『غون』*",
+      "response": "غ و ن"
+  },
+  {
+      "question": "*『كيلوا』*",
+      "response": "ك ي ل و ا"
+  },
+  {
+      "question": "*『لوفيتارو』*",
+      "response": "ل و ف ي ت ا و ر و"
+  },
+  {
+      "question": "*『اوتشيها ساسكي』*",
+      "response": "ا و ت ش ي ه ا س ا س ك ي"
+  },
+  {
+      "question": "*『 اوتشيها مادارا』*",
+      "response": "ا و ت ش ي ه ا م ا د ا ر ا"
+  },
+  {
+      "question": "*『ناميكازي ميناتو』*",
+      "response": "ن  ا م ي ك ا ز ي م ي ن ا ت و"
+  },
+  {
+      "question": "*『شيسوي يوتشيها』*",
+      "response": "ش ي س و ي ي و ت ش ي ه ا"
+  },
+  {
+      "question": "*『هينامي』*",
+      "response": "ه ي ن ا م ي"
+  },
+  {
+      "question": "*『هينا』*",
+      "response": "ه ي ن ا"
+  },
+  {
+      "question": "*『بياكوغان』*",
+      "response": "ب ي ا ك و غ ا ن"
+  },
+  {
+      "question": "*『هيناتا』*",
+      "response": "ه ي ن ا ت ا"
+  },
+  {
+      "question": "*『ايرو』*",
+      "response": "ا ي ر و"
+  },
+  {
+      "question": "*『كاغويا』*",
+      "response": "ك ا غ و ي ا"
+  },
+  {
+      "question": "*『كانامي』*",
+      "response": "ك ا ن ا م ي"
+  },
+  {
+      "question": "*『تسوموغو』*",
+      "response": "ت س و م و غ و"
+  },
+  {
+      "question": "*『بيتو』*",
+      "response": "ب ي ت و"
+  },
+  {
+      "question": "*『كايتو』*",
+      "response": "ك ا ي ت و"
+  },
+  {
+      "question": "*『كيد』*",
+      "response": "ك ي د"
+  },
+  {
+      "question": "*『كيلر』*",
+      "response": "ك ي ل ر"
+  },
+  {
+      "question": "*『كورو سينسي』*",
+      "response": "ك و ر و س ي ن س ي"
+  },
+  {
+      "question": "*『تاتسومي』*",
+      "response": "ت ا ت س و م ي"
+  },
+  {
+      "question": "*『كارلوس』*",
+      "response": "ك ا ر ل و س"
+  },
+  {
+      "question": "*『بولات』*",
+      "response": "ب و ل ا ت"
+  },
+  {
+      "question": "*『تسوباسا』*",
+      "response": "ت س و ب ا س ا"
+  },
+  {
+      "question": "*『هيوغا』*",
+      "response": "ه ي و غ ا"
+  },
+  {
+      "question": "*『نيجي』*",
+      "response": "ن ي ج ي"
+  },
+  {
+      "question": "*『توكا』*",
+      "response": "ت و ك ا"
+  },
+  {
+      "question": "*『ايليينا』*",
+      "response": "ا ي ل ي ي ن ا"
+  },
+  {
+      "question": "*『توغا』*",
+      "response": "ت و غ ا"
+  },
+  {
+      "question": "*『توايس』*",
+      "response": "ت و ا ي س"
+  },
+  {
+      "question": "*『اياناكوجي』*",
+      "response": "ا ي ا ن ا ك و ج ي"
+  },
+  {
+      "question": "*『شادو』*",
+      "response": "ش ا د و"
+  },
+  {
+      "question": "*『جينتل』*",
+      "response": "ج ي ن ت ل"
+  },
+  {
+      "question": "*『ماين』*",
+      "response": "م ا ي ن"
+  },
+  {
+      "question": "*『ايلي』*",
+      "response": "ا ي ل ي"
+  },
+  {
+      "question": "*『ايري』*",
+      "response": "ا ي ر ي"
+  },
+  {
+      "question": "*『ميليوداس』*",
+      "response": "م ي ل ي و د ا س"
+  },
+  {
+      "question": "*『ايليزابيث』*",
+     "response": "ا ي ل ي ز ا ب ي ث"
+  },
+  {
+      "question": "*『』*",
+      "response": "توميوكا "
+  },
+  {
+      "question": "*『غارا الصحراء』*",
+      "response": "غ ا  ر ا ا ل ص ح ر ا ء"
+  },
+  {
+      "question": "*『دانافور』*",
+      "response": "د ا ن ا ف و ر"
+  },
+  {
+      "question": "*『ناغاتو』*",
+      "response": "ن ا غ ا ت و"
+  },
+  {
+      "question": "*『غارا الرمال』*",
+      "response": "غ ا ر ا ا ل ر م ا ل"
+  },
+  {
+      "question": "*『توكيتو』*",
+      "response": "ت و ك ي ت و"
+   },
+  {
+      "question": "*『كونان』*",
+      "response": "ك و ن ا ن"
+   },
+  {
+      "question": "*『ياهيكو』*",
+      "response": "ي ا ه ي ك و"
+   },
+  {
+      "question": "*『ناغاتو』*",
+      "response": "ن ا غ ا ت و"
+   },
+  {
+      "question": "*『غيو』*",
+      "response": "غ ي و"
+   },
+  {
+      "question": "*『توميوكا』*",
+      "response": "ت و م ي و ك ا"
+   },
+  {
+      "question": "*『ميتسوري』*",
+      "response": "م ي ت س و ر ي"
+   },
+  {
+      "question": "*『رينغوكو』*",
+      "response": "ر ي ن غ و ك و"
+   },
+  {
+      "question": "*『بوسكي』*",
+      "response": "ب و س ك ي"
+   },
+  {
+      "question": "*『يوسكي』*",
+      "response": "ي و س ك ي"
+   },
+  {
+      "question": "*『ماكومو』*",
+      "response": "م ا ك و م و"
+   },
+  {
+      "question": "*『سابيتو』*",
+      "response": "س ا ب ي ت و"
+   },
+  {
+      "question": "*『زينو』*",
+      "response": "ز ي ن و"
+   },
+  {
+      "question": "*『فانغ』*",
+      "response": "ف ا ن غ"
+   },
+  {
+      "question": "*『بانغ』*",
+      "response": "ب ا ن غ"
+   },
+  {
+      "question": "*『جوكر』*",
+      "response": "ج و ك ر"
+   },
+  {
+      "question": "*『ميناتو』*",
+      "response": "م ي ن ا ت و"
+}
+]
